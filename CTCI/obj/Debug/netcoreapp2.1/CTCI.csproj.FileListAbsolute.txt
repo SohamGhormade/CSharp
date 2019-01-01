@@ -1,0 +1,11 @@
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.csprojAssemblyReference.cache
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.csproj.CoreCompileInputs.cache
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.AssemblyInfoInputs.cache
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.AssemblyInfo.cs
+/home/soham/Documents/Repositories/C#/CTCI/bin/Debug/netcoreapp2.1/CTCI.deps.json
+/home/soham/Documents/Repositories/C#/CTCI/bin/Debug/netcoreapp2.1/CTCI.runtimeconfig.json
+/home/soham/Documents/Repositories/C#/CTCI/bin/Debug/netcoreapp2.1/CTCI.runtimeconfig.dev.json
+/home/soham/Documents/Repositories/C#/CTCI/bin/Debug/netcoreapp2.1/CTCI.dll
+/home/soham/Documents/Repositories/C#/CTCI/bin/Debug/netcoreapp2.1/CTCI.pdb
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.dll
+/home/soham/Documents/Repositories/C#/CTCI/obj/Debug/netcoreapp2.1/CTCI.pdb

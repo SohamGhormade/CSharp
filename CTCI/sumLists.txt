@@ -1,0 +1,53 @@
+using System;
+
+public class Node<T>
+{
+    public T data;
+    public Node next;
+}
+
+public class SumListsClass{
+    Node sumLists(Node<T> n1, Node<T> n2)
+    {
+       var n = new Node<T>();
+       var l1 = findLength(n1);
+       var l2 = findLength(n2);
+       var l = Math.max(l1,l2);
+      var sumList = n;
+       var carry = 0;
+       for(var i = 0; i < l;i++)
+       {
+           var result = 0;
+           if(n2!=null)
+           {
+               r+= n2.data;
+
+           }
+           if(r> 10)
+           {
+               r =r%10;
+               carry = 1;
+           }
+           else
+            carry = 0;
+
+       n.data = result;
+       n = n.next;
+       n1 = n1.next;
+       n2 = n2.next;
+
+       }
+       if(carry ==1)
+       n = new Node<T>();
+       n.data = carry;
+       return sumList;
+    }
+
+    int findLength(Node n)
+    {
+        int count = 0;
+        for(var x = n; x!=null;x = x.next)
+              count++;
+    return count;
+    }
+}
