@@ -1,0 +1,11 @@
+/home/soham/Documents/Repositories/CSharp/dataStructures1/bin/Debug/netcoreapp2.1/dataStructures1.deps.json
+/home/soham/Documents/Repositories/CSharp/dataStructures1/bin/Debug/netcoreapp2.1/dataStructures1.runtimeconfig.json
+/home/soham/Documents/Repositories/CSharp/dataStructures1/bin/Debug/netcoreapp2.1/dataStructures1.runtimeconfig.dev.json
+/home/soham/Documents/Repositories/CSharp/dataStructures1/bin/Debug/netcoreapp2.1/dataStructures1.dll
+/home/soham/Documents/Repositories/CSharp/dataStructures1/bin/Debug/netcoreapp2.1/dataStructures1.pdb
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.csprojAssemblyReference.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.csproj.CoreCompileInputs.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.AssemblyInfoInputs.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.AssemblyInfo.cs
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.dll
+/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/Debug/netcoreapp2.1/dataStructures1.pdb

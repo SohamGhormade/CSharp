@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/soham/Documents/Repositories/CSharp/dataStructures/dataStructures.csproj",
-      "projectName": "dataStructures",
-      "projectPath": "/home/soham/Documents/Repositories/CSharp/dataStructures/dataStructures.csproj",
+      "projectUniqueName": "/home/soham/Documents/Repositories/CSharp/dataStructures1/dataStructures1.csproj",
+      "projectName": "dataStructures1",
+      "projectPath": "/home/soham/Documents/Repositories/CSharp/dataStructures1/dataStructures1.csproj",
       "packagesPath": "/home/soham/.nuget/packages/",
-      "outputPath": "/home/soham/Documents/Repositories/CSharp/dataStructures/obj/",
+      "outputPath": "/home/soham/Documents/Repositories/CSharp/dataStructures1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

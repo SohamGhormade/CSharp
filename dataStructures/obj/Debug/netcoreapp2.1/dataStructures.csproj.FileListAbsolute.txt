@@ -9,3 +9,9 @@
 /home/soham/Documents/Repositories/C#/dataStructures/bin/Debug/netcoreapp2.1/dataStructures.pdb
 /home/soham/Documents/Repositories/C#/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.dll
 /home/soham/Documents/Repositories/C#/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.pdb
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.csprojAssemblyReference.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.csproj.CoreCompileInputs.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.AssemblyInfoInputs.cache
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.AssemblyInfo.cs
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.dll
+/home/soham/Documents/Repositories/CSharp/dataStructures/obj/Debug/netcoreapp2.1/dataStructures.pdb
