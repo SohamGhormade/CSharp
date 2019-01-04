@@ -15,6 +15,7 @@ namespace dataStructures
             LinkedListTest();
             var graphTest = new GraphTest();
             graphTest.test();
+            DFS_Test.test();
             Console.WriteLine("All Tests passed!");
         }
 
