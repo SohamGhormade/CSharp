@@ -7,9 +7,9 @@ namespace CTCI
     {
         static void Main(string[] args)
         {
-            var sumListClass = new SumListsClass();
-            sumListClass.sumListTest();
-            Console.WriteLine("Hello World!");
+            // var sumListClass = new SumListsClass();
+            // sumListClass.sumListTest();
+            // Console.WriteLine("Hello World!");
         }
 
     }

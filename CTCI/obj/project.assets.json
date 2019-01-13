@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/soham/Documents/Repositories/C#/CTCI/CTCI.csproj",
+      "projectUniqueName": "/home/soham/Documents/Repositories/CSharp/CTCI/CTCI.csproj",
       "projectName": "CTCI",
-      "projectPath": "/home/soham/Documents/Repositories/C#/CTCI/CTCI.csproj",
+      "projectPath": "/home/soham/Documents/Repositories/CSharp/CTCI/CTCI.csproj",
       "packagesPath": "/home/soham/.nuget/packages/",
-      "outputPath": "/home/soham/Documents/Repositories/C#/CTCI/obj/",
+      "outputPath": "/home/soham/Documents/Repositories/CSharp/CTCI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

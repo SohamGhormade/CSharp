@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using System.Text;
+
 public class Palindrome_Solution {
      // T:O(n^3)
     // S:O(n)

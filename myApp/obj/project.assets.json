@@ -516,10 +516,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -687,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/soham/Documents/Repositories/C#/myApp/myApp.csproj",
+      "projectUniqueName": "/home/soham/Documents/Repositories/CSharp/myApp/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/home/soham/Documents/Repositories/C#/myApp/myApp.csproj",
+      "projectPath": "/home/soham/Documents/Repositories/CSharp/myApp/myApp.csproj",
       "packagesPath": "/home/soham/.nuget/packages/",
-      "outputPath": "/home/soham/Documents/Repositories/C#/myApp/obj/",
+      "outputPath": "/home/soham/Documents/Repositories/CSharp/myApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

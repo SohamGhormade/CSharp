@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Solution {
+public class MinWindowSolution {
     public string MinWindow(string s, string t) {
         // handle trivial case
         if(t.Length < s.Length )

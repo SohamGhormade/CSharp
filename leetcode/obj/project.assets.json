@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/soham/Documents/Repositories/C#/leetcode/leetcode.csproj",
+      "projectUniqueName": "/home/soham/Documents/Repositories/CSharp/leetcode/leetcode.csproj",
       "projectName": "leetcode",
-      "projectPath": "/home/soham/Documents/Repositories/C#/leetcode/leetcode.csproj",
+      "projectPath": "/home/soham/Documents/Repositories/CSharp/leetcode/leetcode.csproj",
       "packagesPath": "/home/soham/.nuget/packages/",
-      "outputPath": "/home/soham/Documents/Repositories/C#/leetcode/obj/",
+      "outputPath": "/home/soham/Documents/Repositories/CSharp/leetcode/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

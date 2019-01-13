@@ -9,3 +9,14 @@
 /home/soham/Documents/Repositories/C#/leetcode/bin/Debug/netcoreapp2.1/leetcode.pdb
 /home/soham/Documents/Repositories/C#/leetcode/obj/Debug/netcoreapp2.1/leetcode.dll
 /home/soham/Documents/Repositories/C#/leetcode/obj/Debug/netcoreapp2.1/leetcode.pdb
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.csprojAssemblyReference.cache
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.csproj.CoreCompileInputs.cache
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.AssemblyInfoInputs.cache
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.AssemblyInfo.cs
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.dll
+/home/soham/Documents/Repositories/CSharp/leetcode/obj/Debug/netcoreapp2.1/leetcode.pdb
+/home/soham/Documents/Repositories/CSharp/leetcode/bin/Debug/netcoreapp2.1/leetcode.deps.json
+/home/soham/Documents/Repositories/CSharp/leetcode/bin/Debug/netcoreapp2.1/leetcode.runtimeconfig.json
+/home/soham/Documents/Repositories/CSharp/leetcode/bin/Debug/netcoreapp2.1/leetcode.runtimeconfig.dev.json
+/home/soham/Documents/Repositories/CSharp/leetcode/bin/Debug/netcoreapp2.1/leetcode.dll
+/home/soham/Documents/Repositories/CSharp/leetcode/bin/Debug/netcoreapp2.1/leetcode.pdb
